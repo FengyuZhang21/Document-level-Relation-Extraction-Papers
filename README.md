@@ -3,7 +3,7 @@
 #### ACL
 
 #### AAAI
- (AAAI 2021)Document-Level Relation Extraction with Adaptive Thresholding and Localized Context Pooling. [ATLOP](https://arxiv.org/abs/2010.11304)
+ (AAAI 2021) Document-Level Relation Extraction with Adaptive Thresholding and Localized Context Pooling. [ATLOP](https://arxiv.org/abs/2010.11304)
 
 #### IJCAI
 
