@@ -28,3 +28,4 @@
  * (COLING 2024) Federated Document-Level Biomedical Relation Extraction with Localized Context Contrast. [FedLCC](https://aclanthology.org/2024.lrec-main.629/)
  * (COLING 2024) FCDS: Fusing Constituency and Dependency Syntax into Document-Level Relation Extraction. [FCDS](https://aclanthology.org/2024.lrec-main.627/)
  * (COLING 2022) Document-level Biomedical Relation Extraction Based on Multi-Dimensional Fusion Information and Multi-Granularity Logical Reasoning. [FILR](https://aclanthology.org/2022.coling-1.183/)
+ * (COLING 2022) Document-Level Relation Extraction via Pair-Aware and Entity-Enhanced Representation Learning.[PAEE](https://aclanthology.org/2022.coling-1.213/)
