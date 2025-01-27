@@ -21,5 +21,8 @@
  * (WWW 2024) Consistency Guided Knowledge Retrieval and Denoising in LLMs for Zero-shot Document-level Relation Triplet Extraction. [GenRDK](https://dl.acm.org/doi/10.1145/3589334.3645678)
 
 ### COLING
+ * (COLING 2025) NCRE: A Benchmark for Document-level Nominal Compound Relation Extraction. [NCRE](https://aclanthology.org/2025.coling-main.701/)
+ * (COLING 2025) VaeDiff-DocRE: End-to-end Data Augmentation Framework for Document-level Relation Extraction. [VaeDiff-DocRE](https://aclanthology.org/2025.coling-main.488/)
+ * (COLING 2025) CaDRL: Document-level Relation Extraction via Context-aware Differentiable Rule Learning. [CaDRL](https://aclanthology.org/2025.coling-main.551/)
  * (COLING 2024) FCDS: Fusing Constituency and Dependency Syntax into Document-Level Relation Extraction. [FCDS](https://aclanthology.org/2024.lrec-main.627/)
  * (COLING 2022) Document-level Biomedical Relation Extraction Based on Multi-Dimensional Fusion Information and Multi-Granularity Logical Reasoning. [FILR](https://aclanthology.org/2022.coling-1.183/)
